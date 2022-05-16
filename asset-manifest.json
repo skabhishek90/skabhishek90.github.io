@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.df7f934c.css",
+    "main.js": "/static/js/main.39233f46.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/php.svg": "/static/media/php.ba7be0179e7787d4fbd18df83d0c0943.svg",
+    "static/media/instagram.svg": "/static/media/instagram.617454b34e5058d1d17ea89ab6be6a67.svg",
+    "static/media/gmail.svg": "/static/media/gmail.3f310b41000544c6a59a5209e0f75c24.svg",
+    "static/media/whatsapp.svg": "/static/media/whatsapp.5614c6dc57363e4c0d9d7008e631032f.svg",
+    "static/media/mysql.svg": "/static/media/mysql.0697e026464104aea8919845703174b9.svg",
+    "static/media/react.svg": "/static/media/react.e68b35f4774979ae220b1d5d7b345b00.svg",
+    "static/media/java.svg": "/static/media/java.11c5349144180e3f141e38d0848f8384.svg",
+    "static/media/github.svg": "/static/media/github.e0d7d7254ac0545743fc7af09c1e977b.svg",
+    "static/media/cpp.svg": "/static/media/cpp.a776a608546a79750b150829bc9b099e.svg",
+    "static/media/python.svg": "/static/media/python.e6d7dc739a91892bbf1f6262412046dd.svg",
+    "static/media/html.svg": "/static/media/html.fe296947d8d83d0d645adbea3115b8a8.svg",
+    "static/media/javascript.svg": "/static/media/javascript.00f3e5cf8bcf4ae623b3835ca5791b15.svg",
+    "static/media/css.svg": "/static/media/css.632b6d133bdfb6cde391377b68148070.svg",
+    "static/media/linkedin.svg": "/static/media/linkedin.f10c9de5cd3d33321b434c21192b499d.svg",
+    "index.html": "/index.html",
+    "main.df7f934c.css.map": "/static/css/main.df7f934c.css.map",
+    "main.39233f46.js.map": "/static/js/main.39233f46.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df7f934c.css",
+    "static/js/main.39233f46.js"
+  ]
+}
